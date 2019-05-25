@@ -16,8 +16,11 @@ it supports just Visual Studio 2017 on windows10.
 
 # Contents
 
-| Title                     | Opengl | DirectX 12 | WebGL  |
+| Title                     | Opengl | DirectX 12 | WebGL |
 |:--------------------------|:-------|:-----------|:-------|
+| glfw | | |
+| glew | | |
+| imgui | | |
 | Hello window              | README | README     | README |
 | Hello window clear        | README | README     | README |
 | Hello Triangle | README | README     | README |
